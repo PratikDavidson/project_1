@@ -18,6 +18,10 @@
 .env.test.local
 .env.production.local
 
+# images and videos
+/public/images
+/public/videos
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
